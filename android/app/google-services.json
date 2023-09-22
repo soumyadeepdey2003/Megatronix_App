@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "853983864565",
+    "project_id": "mega-app-7ed10",
+    "storage_bucket": "mega-app-7ed10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853983864565:android:c06e6f4b8705f97787c7bc",
+        "android_client_info": {
+          "package_name": "io.firebase.megaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853983864565-flo4u4bs1fn1tj0k5ttthfvop7p140rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh-CCv8StdqjitmbH8jlSgcHBTF09zO2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "853983864565-flo4u4bs1fn1tj0k5ttthfvop7p140rv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
